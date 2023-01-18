@@ -1,8 +1,9 @@
- <div>
+ <details>
+ <summary> :zap: Github Stats details </summary>
   <a href="https://github.com/aagrjr">
   <img height="180em" src="https://github-readme-stats-aagrjr.vercel.app/api?username=aagrjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://aagrjr-readme-stats.vercel.app/api/top-langs?username=aagrjr&theme=dark"/>
-</div>
+</details>
 <div style="display: inline_block"><br>
   <img align="center" alt="aagrjr-java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="aagrjr-spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
