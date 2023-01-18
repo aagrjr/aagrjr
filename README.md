@@ -1,8 +1,8 @@
  <div>
   <a href="https://github.com/aagrjr">
-  <img height="180em" src="github-readme-stats-aagrjr2.vercel.app
+  <img height="180em" src="https://github-readme-stats-aagrjr2.vercel.app
 /api?username=aagrjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="github-readme-stats-aagrjr2.vercel.app
+  <img height="180em" src="https://github-readme-stats-aagrjr2.vercel.app
 /api/top-langs?username=aagrjr&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
