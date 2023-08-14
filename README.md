@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="aagrjr-java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="aagrjr-kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="aagrjr-kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 
    <img align="center" alt="aagrjr-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
